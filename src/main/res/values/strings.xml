@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QWeather</string>
+    <string name="search_fragment">Search</string>
+    <string name="saved_fragment">Saved</string>
+    <string name="input_name_city">Enter the name of the city</string>
+    <string name="search_city">Search</string>
+    <string name="daily">Daily</string>
+    <string name="today">Today</string>
+</resources>
